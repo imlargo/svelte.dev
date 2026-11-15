@@ -6,12 +6,12 @@
     "pelletier197"
   ],
   "homepage": "https://github.com/magidoc-org/magidoc#readme",
-  "version": "7.0.0",
-  "downloads": 11298,
-  "github_stars": 286,
-  "updated": "2026-08-21T16:21:58.045Z",
-  "svelte_range": "5.55.5",
-  "kit_range": "2.59.1",
+  "version": "9.0.0",
+  "downloads": 40342,
+  "github_stars": 288,
+  "updated": "2026-11-10T16:14:34.351Z",
+  "svelte_range": "5.57.3",
+  "kit_range": "3.1.1",
   "typescript": true,
   "runes": false,
   "last_rune_check_version": "6.2.0"

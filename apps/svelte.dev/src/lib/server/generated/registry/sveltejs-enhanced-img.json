@@ -8,10 +8,10 @@
     "conduitry"
   ],
   "homepage": "https://svelte.dev/docs/kit/images#sveltejs-enhanced-img",
-  "version": "0.11.0",
-  "downloads": 47503,
+  "version": "1.0.1",
+  "downloads": 120180,
   "github_stars": 20755,
-  "updated": "2026-06-18T18:36:47.740Z",
+  "updated": "2026-11-10T09:10:46.878Z",
   "svelte_range": "^5.0.0",
   "typescript": true,
   "runes": false,
